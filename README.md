@@ -1,0 +1,2 @@
+# FUTURE_FS_2
+CRM (Customer Relationship Management): A system designed to manage and improve interactions with customers by organizing data such as contacts, communication history, and sales activities. It helps businesses track leads, automate processes, and enhance customer engagement to improve overall efficiency and decision-making.
